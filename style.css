@@ -1,0 +1,33 @@
+body {
+
+    font-family: Arial, sans-serif;
+    line-height: 4.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.admissionworldeducation.in/images/veltech.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #333333;
+    color:whitesmoke;
+    text-align: center;
+    padding: 2rem 0;
+    background-image: url('https://www.admissionworldeducation.in/images/veltech.jpg'); /* Replace 'background.jpg' with your actual background image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+nav {
+    background-color: #444444de;
+    text-align: center;
+}
+
+
+nav a {
+    text-decoration: none;
+    color:#fff
+}
